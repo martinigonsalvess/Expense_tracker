@@ -1,5 +1,6 @@
 .new-expense {
-  background-color: #a892ee;
+  /* background-color: rgb(31, 31, 31); */
+  background-color: rgb(117, 116, 116);
   padding: 1rem;
   margin: 2rem auto;
   width: 50rem;
